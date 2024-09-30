@@ -85,9 +85,9 @@ their allergies. This application has two main features: search and allergy test
 ---
 
 #### 📫 Let's Connect:
-- Portfolio: [portfolio.com](#)
+<!--- Portfolio: [portfolio.com](#) -->
 - LinkedIn: [linkedin.com/in/rinrin_karmila](https://www.linkedin.com/in/rinrin-karmila-406b68179/)
-- Dribbble: [dribbble.com/rinrin_karmila](#)
+<!-- - Dribbble: [dribbble.com/rinrin_karmila](#) -->
 
 
 Feel free to explore my repositories and check out my latest projects!
