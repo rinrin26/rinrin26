@@ -79,7 +79,7 @@ their allergies. This application has two main features: search and allergy test
 - **Frontend Development**: Flutter, React, JavaScript (ES6+), HTML5, CSS
 - **Backend development**: Node js
 - **UI/UX Design**: User Research, Wireframing, Prototyping, High-fidelity Mockups, Usability Testing
-- **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
+- **Design Tools**: Figma <!-- Adobe XD, Adobe Photoshop, Adobe Illustrator-->
 - **Version Control**: Git & GitHub, gitlab
 
 ---
