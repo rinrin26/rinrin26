@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 #### 📚 About Me:
-I'm a **Fullstack Developer** and **UI/UX Designer** with a passion for building user-centric, accessible, and high-performance apps or web applications. I specialize in turning creative ideas into functional and visually appealing interfaces. With a strong understanding of design principles and modern frontend technologies, I aim to create user experiences that are both intuitive and impactful.
+I'm a **Software engineering** and **UI/UX Designer** with a passion for building user-centric, accessible, and high-performance apps or web applications. I specialize in turning creative ideas into functional and visually appealing interfaces. With a strong understanding of design principles and modern frontend technologies, I aim to create user experiences that are both intuitive and impactful.
 
 - 💻 Tech Stack: Flutter, firebase, node js, mongodb, Figma, typescript, HTML, CSS, JavaScript (React)
 - 🎨 Design: Wireframe, Prototyping, User Research, Interaction Design, User Flows, High-fidelity Mockups
