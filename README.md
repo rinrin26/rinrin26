@@ -29,7 +29,7 @@ I'm a **Software engineering** and **UI/UX Designer** with a passion for buildin
 
 ---
 
-#### 🌟 Featured Projects:
+<!--#### 🌟 Featured Projects:
 
 ##### [✨ Project 1: Bank Jago](https://www.jago.com/id/jago)
 **Tech stack**: Flutter, node js, typescript, gitlab, kotlin-spring, nest js, gcp, mongodb, redis, kafka, jira, miro
@@ -72,9 +72,9 @@ their allergies. This application has two main features: search and allergy test
 
 <!--##### [🎨 Project 4: ](#)
 **Tech stack**:  
--->
 
 ---
+-->
 
 #### 🛠 🎨 Skills & Expertise:
 - **Frontend Development**: Flutter, React, JavaScript (ES6+), HTML5, CSS
